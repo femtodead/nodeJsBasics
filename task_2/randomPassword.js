@@ -20,7 +20,7 @@ function numberRandom(max) {
         return Math.floor(number);
     }
 }
-console.log(numberRandom(3));
+
 function randomPassword(sizePassword) {
     if (sizePassword < 2) {
         console.log('minimum password length 3 characters, returned 0');

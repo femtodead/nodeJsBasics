@@ -1,6 +1,6 @@
 {
   "name": "rapa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "function to generate a random password",
   "main": "randomPassword.js",
   "scripts": {
